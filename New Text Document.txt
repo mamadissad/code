@@ -2,3 +2,6 @@ dataset for classification :
 figshare :
 https://www.kaggle.com/datasets/ashkhagan/figshare-brain-tumor-dataset/data
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
+This brain tumor dataset:
+https://www.scidb.cn/en/detail?dataSetId=faa44e0a12da4c11aeee91cc3c8ac11e&version=V1
